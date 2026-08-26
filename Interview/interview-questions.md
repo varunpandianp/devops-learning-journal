@@ -1,7 +1,18 @@
-1. sdlc and devops lifecylce importance:
+**1. sdlc and devops lifecylce importance:**
 SDLC explains the journey of software from idea to maintenance.
 DevOps Lifecycle explains how teams continuously build, automate, deploy, operate, 
 and improve that software using tools and practices.
 
-2. 
+**2. Interviewer may ask:
+   Q: Can Nginx act as an application server?**
+   Answer:
+   Nginx is primarily a web server and reverse proxy. It can serve static content and route requests,
+but it does not execute business logic like a traditional application server.
 
+3. **Question: How can a company block Facebook using a forward proxy?**
+Answer:
+"The company routes employee internet traffic through a forward proxy. When a user requests facebook.com, the proxy checks the request against security policies or URL filtering rules. If the domain is blocked, the proxy denies the request; 
+otherwise, it forwards the request to the internet.
+The proxy also provides logging, monitoring, and security inspection."
+
+4. 
