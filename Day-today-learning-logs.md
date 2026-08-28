@@ -35,3 +35,17 @@ NAT → Private network → Internet
 VPN → Secure tunnel
 
 Load Balancer → Distributes traffic
+
+**📅 27-08-2026 — Learning Progress**
+
+🧠 Learning Activities
+- Learned IP address fundamentals — IPv4, Public IP, Private IP and IP classes.
+- - Understood encapsulation — Data → Segment → Packet → Frame → Bits.
+- Understood TCP/IP in modern networks and how it relates to the OSI model.
+- Clarified the role of the Session Layer and how session management is handled in modern applications.
+- Learned DNS fundamentals — domain name resolution, DNS hierarchy, recursive resolver, authoritative DNS and how a domain is resolved to an IP address.
+
+🔑 Quick Revision
+L7–L5 → Data | L4 → Segment/TCP/UDP | L3 → Packet/IP | L2 → Frame/MAC | L1 → Bits
+
+Client - | DNS - recursive resolver | - root - | TLD .com | - authoritative DNS |- IP
