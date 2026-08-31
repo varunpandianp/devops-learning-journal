@@ -49,3 +49,17 @@ Load Balancer → Distributes traffic
 L7–L5 → Data | L4 → Segment/TCP/UDP | L3 → Packet/IP | L2 → Frame/MAC | L1 → Bits
 
 Client - | DNS - recursive resolver | - root - | TLD .com | - authoritative DNS |- IP
+
+Learning Log — 28-08-2026
+
+Topics Covered
+
+Operating System (OS) Basics
+
+Linux File System
+
+Linux Directories
+
+Basic Linux Commands 
+
+31-08-2026 
