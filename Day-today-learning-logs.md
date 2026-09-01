@@ -62,4 +62,10 @@ Linux Directories
 
 Basic Linux Commands 
 
-31-08-2026 
+31-08-2026
+📅 31-08-2026 — Learning Progress
+🧠 What I Learned
+- Learned the DevOps lifecycle and CI/CD pipeline and how code moves from development to production.
+- Understood CI vs CD and how CI/CD bridges Development and Operations through automation.
+- Learned the role of Git, Jenkins, GitHub Actions, Maven, Docker, Terraform, Ansible, Kubernetes and Cloud in the DevOps pipeline.
+- Understood the importance of testing, security, deployment, monitoring and feedback, and that DevOps is broader than just CI/CD.
