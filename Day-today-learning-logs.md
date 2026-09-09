@@ -69,3 +69,12 @@ Basic Linux Commands
 - Understood CI vs CD and how CI/CD bridges Development and Operations through automation.
 - Learned the role of Git, Jenkins, GitHub Actions, Maven, Docker, Terraform, Ansible, Kubernetes and Cloud in the DevOps pipeline.
 - Understood the importance of testing, security, deployment, monitoring and feedback, and that DevOps is broader than just CI/CD.
+
+## 📅 01-09-2026 — Learning Progress
+
+### 🧠 What I Learned
+
+- Learned **Linux fundamentals** — Linux architecture, kernel, shell, distributions and filesystem hierarchy.
+- Practised **essential Linux commands** for navigation, file management, searching, reading logs, processes, resources and services.
+- Learned **Linux pipes, redirection and command-line workflow**, including `grep`, `find`, `tail -f` and command composition.
+- Learned basic **Linux troubleshooting** using `systemctl`, `journalctl`, `df`, `free`, `top` and understood their importance in DevOps/SRE environments.
