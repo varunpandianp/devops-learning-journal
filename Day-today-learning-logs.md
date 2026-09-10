@@ -87,3 +87,12 @@ Basic Linux Commands
 - Learned **Linux file permissions and ownership** — read/write/execute, `chmod`, numeric permissions, `chown`, `chgrp`, `umask` and special permissions.
 - Learned **SSH and key-based authentication**, including SSH keys, `authorized_keys`, `scp`, `rsync`, SSH hardening and troubleshooting.
 - Learned the fundamentals of the **vi/vim editor** and essential commands for editing files directly on Linux servers.
+
+## 📅 03-09-2026 — Learning Progress
+
+### 🧠 What I Learned
+
+- Learned **Shell Scripting fundamentals** — shebang, variables, command substitution, quoting and script arguments.
+- Learned **conditionals, loops and functions** to make Linux commands reusable and automate repetitive tasks.
+- Learned **exit codes and error handling**, including `$?`, `exit 0`, non-zero exit codes, `set -euo pipefail` and stdout/stderr.
+- Learned **shell scripting best practices** — validate inputs, quote variables, avoid hardcoded credentials, handle destructive commands carefully and use ShellCheck.
