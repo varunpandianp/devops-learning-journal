@@ -96,3 +96,11 @@ Basic Linux Commands
 - Learned **conditionals, loops and functions** to make Linux commands reusable and automate repetitive tasks.
 - Learned **exit codes and error handling**, including `$?`, `exit 0`, non-zero exit codes, `set -euo pipefail` and stdout/stderr.
 - Learned **shell scripting best practices** — validate inputs, quote variables, avoid hardcoded credentials, handle destructive commands carefully and use ShellCheck.
+
+## Learning Log — 04-09-2026
+- Learned Git & GitHub basics.
+- Understood Git workflow: Working → Staging → Commit → Remote.
+- Practiced git init, status, add, commit, diff, and log.
+- Learned repositories, commits, and .gitignore.
+- Understood Git ≠ GitHub.
+
