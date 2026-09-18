@@ -118,3 +118,15 @@ Date: 17-09-2026 session data :09-09-2026
 - Learned git show and GitHub branch protection rules.
 - Learned webhooks and GitHub Actions for CI/CD.
 - Understood GitHub/GitLab workflow basics.
+
+##  Learning Log  - build tools and build process 18-09-2026
+
+- Learned about Build Tools.
+- Learned Ant vs Maven vs Gradle.
+- Understood Imperative vs Declarative build systems.
+- Learned Maven project structure and `pom.xml`.
+- Learned Maven dependency management and Maven Central.
+- Learned Local Maven Repository (`~/.m2/repository`).
+- Learned about Maven `settings.xml`.
+- Learned the 3 Maven lifecycles: Clean, Default and Site.
+- Practiced Maven build phases and basic Maven commands.
