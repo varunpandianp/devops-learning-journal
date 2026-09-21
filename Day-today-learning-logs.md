@@ -105,12 +105,14 @@ Basic Linux Commands
 - Understood Git ≠ GitHub.
 
 ## Learning Log — Git & GitHub Session 2
+
 Date: 17-09-2026 session data :09-09-2026
 - Learned Git undo commands: restore, revert, reset, stash.
 - Learned Git branching and branch management.
 - Learned merge and merge conflicts.
 - Learned rebase, squash, and reflog.
 - Practiced handling and recovering Git changes
+- 
 ## Learning Log — Git & GitHub 
 - Date: 18-09-2026 session data :10-09-2026
 - Learned git reset: soft, mixed and hard.
@@ -130,3 +132,25 @@ Date: 17-09-2026 session data :09-09-2026
 - Learned about Maven `settings.xml`.
 - Learned the 3 Maven lifecycles: Clean, Default and Site.
 - Practiced Maven build phases and basic Maven commands.
+
+## Learning Log - CI/CD - Jenkins
+
+**Session Date:** 14-09-2026  
+**Study Date:** 21-09-2026
+
+### Topics Covered
+
+- Learned the basics of CI/CD.
+- Understood Continuous Integration (CI) and Continuous Delivery/Deployment (CD).
+- Learned what Jenkins is and how it is used for CI/CD automation.
+- Understood Jenkins Controller and Jenkins Agent.
+- Learned about Jenkins Jobs and Pipelines.
+- Learned the purpose of a Jenkinsfile and Pipeline as Code.
+- Understood Jenkins triggers and GitHub Webhooks.
+- Learned Jenkins integration with Maven, Docker, Kubernetes, and AWS.
+- Learned about Jenkins Credentials and secure handling of secrets.
+- Understood the basic CI/CD flow from GitHub → Jenkins → Build → Test → Package → Deploy.
+
+### Progress
+
+Learned the fundamentals of Jenkins and understood how Jenkins fits into a real-world CI/CD pipeline.
