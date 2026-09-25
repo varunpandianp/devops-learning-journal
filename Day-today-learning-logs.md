@@ -242,3 +242,22 @@ Understood how Jenkins uses Pipeline as Code and distributed Controller-Agent ar
 ### Progress
 
 Learned how to extend a Jenkins pipeline from build and test to automated deployment, triggering, notifications, and Jenkins administration.
+
+# Learning Log — 25-09-2026 session date :22-09-2026
+
+## Docker
+
+- Learned Docker fundamentals and why containerization is used.
+- Understood **Docker Image vs Docker Container**.
+- Learned `docker pull` to download images.
+- Practiced running an **Nginx container** using `docker run`.
+- Learned Docker port mapping using `-p 80:80`.
+- Understood EC2 → Docker → Nginx → Browser flow.
+- Practiced `docker ps` and `docker ps -a`.
+- Learned `docker stop`, `docker start`, `docker restart`, and `docker rm`.
+- Learned `docker rmi` to remove Docker images.
+- Understood that `docker run` creates a container from an image.
+- Understood the basic Docker image → container → application flow.
+- Learned how Docker can provide application and dependency isolation.
+- Understood the basic difference between **Virtual Machines and Containers**.
+- Learned how a Dockerfile can be used to create a customized image from an existing image.
