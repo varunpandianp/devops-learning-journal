@@ -394,3 +394,30 @@ session date: 29-09-2026
 ## Key Takeaway
 
 Docker provides the foundation for running containers, networking provides communication and isolation, volumes provide persistent data, and Docker Swarm adds orchestration capabilities such as scaling, scheduling, self-healing, service discovery, and multi-host management.
+
+
+# Learning Log
+
+**Date:** 18 October 2026
+
+**Topic Learned:** Working with Linux Shell
+
+**Subtopics Covered:**
+- Shell and types of shells
+- Home directory and directory navigation
+- Commands, arguments, and options
+- `echo` and basic Linux commands
+- Built-in and external commands (`type`)
+- Absolute and relative paths
+- `pushd` and `popd`
+- File operations: create, copy, move, rename, and delete
+- `cat`, `touch`, and `vi`
+- File viewing with `more` and `less`
+- Help commands: `man`, `whatis`, `apropos`, and `--help`
+- `$SHELL` and aliases
+- Command history
+- Environment variables and `PATH`
+- Persistent configuration using `~/.profile`
+- Changing the default shell
+- `TERM` environment variable
+- Customizing the shell prompt using `PS1`
