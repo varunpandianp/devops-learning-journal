@@ -421,3 +421,34 @@ Docker provides the foundation for running containers, networking provides commu
 - Changing the default shell
 - `TERM` environment variable
 - Customizing the shell prompt using `PS1`
+# Daily DevOps Learning Log
+
+## 2026-10-18 — Linux Storage Fundamentals
+- **Learned:** Linux storage concepts, disks, block storage, and disk identification.
+- **Concepts covered:** `lsblk`, `fdisk -l`, disk devices, partitions, and MBR vs GPT partition schemes.
+- **Practiced:** Identifying disks and understanding primary, extended, and logical partitions.
+
+## 2026-10-19 — Filesystems and Disk Mounting
+- **Learned:** Linux filesystems and how to make storage available to applications.
+- **Concepts covered:** ext2, ext3, ext4, `mkfs.ext4`, mounting, unmounting, `df -hT`, and `blkid`.
+- **Practiced:** Creating filesystems, mounting partitions, and configuring permanent mounts through `/etc/fstab`.
+
+## 2026-10-20 — Linux Storage Technologies
+- **Learned:** Different storage architectures and flexible storage management.
+- **Concepts covered:** DAS, NAS, SAN, LVM, Physical Volumes (PV), Volume Groups (VG), and Logical Volumes (LV).
+- **Practiced:** Understanding LVM creation, storage expansion, and common storage troubleshooting commands.
+
+## 2026-10-21 — Django Application Deployment and Troubleshooting
+- **Learned:** Deploying a Python/Django application on a Linux development server and managing it with systemd.
+- **Concepts covered:** Application file transfer, Python virtual environments, PostgreSQL database configuration, IP/hostname and port configuration, database migrations, and systemd services.
+- **Practiced:** Creating `mercury.service`, enabling and starting the service, checking logs using `journalctl`, and troubleshooting a Python error in Django's `settings.py`.
+- **Commands practiced:** `python3 manage.py migrate`, `python3 manage.py check`, `systemctl`, `journalctl`, and `systemctl status`.
+- **Key takeaway:** A service can be enabled but still fail to run if the application has a configuration or runtime error. Logs help identify the root cause.
+
+---
+
+## Learning Summary
+
+This learning period focused on Linux storage management, filesystem administration, storage architectures, LVM, and deploying a Python web application with PostgreSQL on a Linux development server.
+
+**Next steps:** Practise permanent mounts, LVM expansion, systemd service troubleshooting, PostgreSQL connectivity, and application health checks.
